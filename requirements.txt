@@ -1,6 +1,0 @@
-PyQt5
-pandas 
-pyyaml
-openpyxl
-bs4
-requests
